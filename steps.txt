@@ -1,0 +1,8 @@
+Steps to run the script: 
+
+1. Install python in your system.
+2. Open terminal in the present folder where the main.py is present.
+3. Type "python main.py" in terminal to run it.
+
+
+	

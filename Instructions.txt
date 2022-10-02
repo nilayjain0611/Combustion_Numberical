@@ -1,0 +1,55 @@
+Instruction must be consider before using python script:
+
+	1. As python is a case sensitive language, all the inputs must be given in the UPPERCASE followed by their numerical suffix as suggested for the script written.
+
+	2. 5 basic elements, i.e C, H, O, S, and N must be inputted as it is given and cannot be as a molecule :
+		for example:
+				Enter Element -> H2    ...... wrong
+				Enter Element -> H    ...... correct
+				Enter Element -> h    ...... wrong
+	
+	3. Molecules must be inputted as they are: 
+		for example:
+				Enter Element -> C2H2    ...... correct
+				Enter Element -> CH    ...... wrong
+				Enter Element -> C2h2    ...... wrong
+				Enter Element -> c2h2    ...... wrong
+
+
+	4.The basic elements which are listed above must be enter as input to run program smoothly, if it is not a part of fuel then enter  given mass of element as 0.
+	   No basic elements can ignored.
+
+	5. Some basics for Numbericals are as follows: 
+	
+				# Combustion reactions
+
+					C 		+		 O2 		--> CO2
+					H2 		+	    0.5(O2)		--> H2O
+					CO		+ 	     0.5(O2) 	--> CO2
+					S 		+		 O2 		--> SO2
+					CH4 		+ 		2O2 		--> C02 	+ 	2H2O
+					C2H2		+	     2.5O2		--> 2CO2 	+ 	1H2O
+					C2H4 + 3O2  --> 2CO2 + 2H2O
+					C2H6 + 3.5O2 --> 2CO2 + 3H2O
+
+				# MOLECULAR MASSES
+
+					# C = 12
+					# S =32
+					# O = 32
+					# H = 2
+					# N = 28
+					# CH4 = 16
+					# C2H2 = 26
+					# C2h4 = 28
+					# C2H6 = 30
+
+					# LITERS =  22.4
+					# KILO = 28.95
+	
+Now, you are ready to go! check steps.txt to run script.
+		
+	
+
+
+ 
